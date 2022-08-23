@@ -1,18 +1,24 @@
 # General description of project
-> E.g. Building an inventory tracking system for my CCA
+> Building an inventory tracking system for my CCA
 
 #Goals of project
-> E.g. Streamline tracking and cataloguing of inventory to facilitate member loans, repairs & Semester stock-taking needs
+> Allow for specialists and cadet officers to keep track of items kept in NCC armory and log them in or out for training sessions
 
 # Listing of features
-> List all the features in the fully functional app - you may choose to work on a subset of this listing to produce a MVP (minimum viable product) given constraint of time
+> Add item (name, quantity, description)
+> Loan item (name, quantity, training date)
+> Remove Item (name, quantity, reason)
+> Item List: List all items in armory (name, quantity, description)
+> Use Log: List dates of training sessions that item has been used (name, quantity used, date)
+> Removed log: List items that have been removed (name, quantity, reason) 
 
 # External Scanning
-> Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
+> Excel: too manual, hard to use
 
 # Listing of Key Use Cases
-> Yearly, CCA senior will do stock-take and will need to generate a report on the existing stock.
-> Start of school break, members will loan equipment and will need to return when school break ends.
+> Yearly, specialists will do stock-take and will need to generate a report on the existing stock.
+> In training sessions where equipment is needed, specialists will have to loan out items and return them after session is over
+> Some items may be stored in  armoury, then be removed to be given out to CCA members
 
 # Skills that my project requires me to pick up
 > List out the skills that you are not familiar with that is necessary due to the project scope.
