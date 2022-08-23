@@ -14,12 +14,21 @@
 ## Week 5 (26 Jul - 1 Aug)
 
 ## Week 6 (2 Aug - 8 Aug)
-
+Identified problem with NCC armoury
+Started research on inventory management
+  - key features
+  - how these features can be adapted to RINCC
+  
 ## Week 7 (9 Aug - 15 Aug)
+Completed proposal (did not realise proposal deadline as was absent from lesson)
 
 ## Week 8 (16 Aug - 22 Aug)
+Goals: lay down basic frameworks for the system
+Problems faced: lack of time, very busy
+Result: Partially completed
 
 ## Week 9 (23 Aug - 29 Aug)
+Goals: Finish basic framework, start testing, fix bugs
 
 ## Week 10 (30 Aug - 5 Sep)
 
