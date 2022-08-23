@@ -5,12 +5,12 @@
 > Allow for specialists and cadet officers to keep track of items kept in NCC armory and log them in or out for training sessions
 
 # Listing of features
-> Add item (name, quantity, description)
-> Loan item (name, quantity, training date)
-> Remove Item (name, quantity, reason)
-> Item List: List all items in armory (name, quantity, description)
-> Use Log: List dates of training sessions that item has been used (name, quantity used, date)
-> Removed log: List items that have been removed (name, quantity, reason) 
+- Add item (name, quantity, description)
+- Loan item (name, quantity, training date)
+- Remove Item (name, quantity, reason)
+- Item List: List all items in armory (name, quantity, description)
+- Use Log: List dates of training sessions that item has been used (name, quantity used, date)
+- Removed log: List items that have been removed (name, quantity, reason) 
 
 # External Scanning
 > Excel: too manual, hard to use
