@@ -9,8 +9,7 @@
 - Loan item (name, quantity, training date)
 - Remove Item (name, quantity, reason)
 - Item List: List all items in armory (name, quantity, description)
-- Use Log: List dates of training sessions that item has been used (name, quantity used, date)
-- Removed log: List items that have been removed (name, quantity, reason) 
+- Use Log: List dates of training sessions that item has been used (name, quantity used, date) 
 
 # External Scanning
 > Excel: too manual, hard to use
