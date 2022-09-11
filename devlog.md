@@ -29,7 +29,10 @@ Result: Partially completed
 
 ## Week 9 (23 Aug - 29 Aug)
 Goals: Finish basic framework, start testing, fix bugs
-
+Finished basic framework
 ## Week 10 (30 Aug - 5 Sep)
-
+Goals: complete exception handling
+Completed exception handling
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
+Goals: Finishing touches, video, UML diagram, reflection
+Completed code, video, UML diagram & reflection
