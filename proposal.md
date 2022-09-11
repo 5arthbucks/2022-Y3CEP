@@ -20,7 +20,7 @@
 > Some items may be stored in  armoury, then be removed to be given out to CCA members
 
 # Skills that my project requires me to pick up
-> List out the skills that you are not familiar with that is necessary due to the project scope.
+> UML Diagram
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
